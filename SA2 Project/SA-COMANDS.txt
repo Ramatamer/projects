@@ -1,0 +1,27 @@
+docker run --name PropertyDatabase --network property-net -e MYSQL_ROOT_PASSWORD=13102002K-k -d -p 3306:3306 mysql:5.7
+
+
+docker exec -it 9249 bash
+
+mysql -uroot -p13102002K-k
+
+
+docker build -t client-image .
+
+docker build -t owner-image .
+
+docker-compose up
+
+netstat -ano | findstr :3306
+taskkill /PID <PID> /F
+
+
+docker run --name clientService -p 8081:8081 --network kafka-net Client-image
+
+docker run --name ownerService -p 8080:8080 --network kafka-net Owner-image
+
+University\Level 3\Second Term\SA-2\project\project\Owner(Producer)
+University\Level 3\Second Term\SA-2\project\project\Kafka-brocker
+University\Level 3\Second Term\SA-2\project\project\Client(Consumer)
+
+

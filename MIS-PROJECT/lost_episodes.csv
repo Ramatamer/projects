@@ -1,0 +1,122 @@
+season,episode_num_in_season,episode_num_overall,title,directed_by,written_by,featured_character,original_air_date,us_viewers
+1,1,1,Pilot: Part 1,J. J. Abrams,Story by: Jeffrey Lieber and J. J. Abrams & Damon LindelofTeleplay by: J. J. Abrams & Damon Lindelof,Jack,2004-09-22,18650000.0
+1,2,2,Pilot: Part 2,J. J. Abrams,Story by: Jeffrey Lieber and J. J. Abrams & Damon LindelofTeleplay by: J. J. Abrams & Damon Lindelof,Charlie & Kate,2004-09-29,17000000.0
+1,3,3,Tabula Rasa,Jack Bender,Damon Lindelof,Kate,2004-10-06,16540000.0
+1,4,4,Walkabout,Jack Bender,David Fury,Locke,2004-10-13,18160000.0
+1,5,5,White Rabbit,Kevin Hooks,Christian Taylor,Jack,2004-10-20,16820000.0
+1,6,6,House of the Rising Sun,Michael Zinberg,Javier Grillo-Marxuach,Sun,2004-10-27,16830000.0
+1,7,7,The Moth,Jack Bender,Jennifer Johnson & Paul Dini,Charlie,2004-11-03,18730000.0
+1,8,8,Confidence Man,Tucker Gates,Damon Lindelof,Sawyer,2004-11-10,18440000.0
+1,9,9,Solitary,Greg Yaitanes,David Fury,Sayid,2004-11-17,17640000.0
+1,10,10,Raised by Another,Marita Grabiak,Lynne E. Litt,Claire,2004-12-01,17150000.0
+1,11,11,All the Best Cowboys Have Daddy Issues,Stephen Williams,Javier Grillo-Marxuach,Jack,2004-12-08,18880000.0
+1,12,12,Whatever the Case May Be,Jack Bender,Damon Lindelof & Jennifer Johnson,Kate,2005-01-05,21590000.0
+1,13,13,Hearts and Minds,Rod Holcomb,Carlton Cuse & Javier Grillo-Marxuach,Boone,2005-01-12,20810000.0
+1,14,14,Special,Greg Yaitanes,David Fury,Michael & Walt,2005-01-19,19690000.0
+1,15,15,Homecoming,Kevin Hooks,Damon Lindelof,Charlie,2005-02-09,19480000.0
+1,16,16,Outlaws,Jack Bender,Drew Goddard,Sawyer,2005-02-16,17870000.0
+1,17,17,...In Translation,Tucker Gates,Javier Grillo-Marxuach & Leonard Dick,Jin,2005-02-23,19490000.0
+1,18,18,Numbers,Daniel Attias,David Fury & Brent Fletcher,Hurley,2005-03-02,18850000.0
+1,19,19,Deus Ex Machina,Robert Mandel,Carlton Cuse & Damon Lindelof,Locke,2005-03-30,17750000.0
+1,20,20,Do No Harm,Stephen Williams,Janet Tamaro,Jack,2005-04-06,17120000.0
+1,21,21,The Greater Good,David Grossman,Leonard Dick,Sayid,2005-05-04,17200000.0
+1,22,22,Born to Run,Tucker Gates,Story by: Javier Grillo-MarxuachTeleplay by: Edward Kitsis & Adam Horowitz,Kate,2005-05-11,17100000.0
+1,23,23,Exodus: Part 1,Jack Bender,Damon Lindelof & Carlton Cuse,various,2005-05-18,18620000.0
+1,24,24,Exodus: Part 2 (Part I),Jack Bender,Damon Lindelof & Carlton Cuse,various,2005-05-25,20710000.0
+1,25,25,Exodus: Part 2 (Part II),Jack Bender,Damon Lindelof & Carlton Cuse,various,2005-05-25,20710000.0
+2,1,26,"Man of Science, Man of Faith",Jack Bender,Damon Lindelof,Jack,2005-09-21,23470000.0
+2,2,27,Adrift,Stephen Williams,Steven Maeda & Leonard Dick,Michael,2005-09-28,23170000.0
+2,3,28,Orientation,Jack Bender,Javier Grillo-Marxuach & Craig Wright,Locke,2005-10-05,22380000.0
+2,4,29,Everybody Hates Hugo,Alan Taylor,Edward Kitsis & Adam Horowitz,Hurley,2005-10-12,21660000.0
+2,5,30,...And Found,Stephen Williams,Carlton Cuse & Damon Lindelof,Sun & Jin,2005-10-19,21380000.0
+2,6,31,Abandoned,Adam Davidson,Elizabeth Sarnoff,Shannon,2005-11-09,20010000.0
+2,7,32,The Other 48 Days,Eric Laneuville,Damon Lindelof & Carlton Cuse,"Ana Lucia, Bernard,Libby and Mr. Eko",2005-11-16,21870000.0
+2,8,33,Collision,Stephen Williams,Javier Grillo-Marxuach & Leonard Dick,Ana Lucia,2005-11-23,19290000.0
+2,9,34,What Kate Did,Paul Edwards,Steven Maeda & Craig Wright,Kate,2005-11-30,21540000.0
+2,10,35,The 23rd Psalm,Matt Earl Beesley,Carlton Cuse & Damon Lindelof,Mr. Eko,2006-01-11,20560000.0
+2,11,36,The Hunting Party,Stephen Williams,Elizabeth Sarnoff & Christina M. Kim,Jack,2006-01-18,19130000.0
+2,12,37,Fire + Water,Jack Bender,Edward Kitsis & Adam Horowitz,Charlie,2006-01-25,19050000.0
+2,13,38,The Long Con,Roxann Dawson,Steven Maeda & Leonard Dick,Sawyer,2006-02-08,18740000.0
+2,14,39,One of Them,Stephen Williams,Damon Lindelof & Carlton Cuse,Sayid,2006-02-15,18200000.0
+2,15,40,Maternity Leave,Jack Bender,Dawn Lambertsen Kelly & Matt Ragghianti,Claire,2006-03-01,16430000.0
+2,16,41,The Whole Truth,Karen Gaviola,Elizabeth Sarnoff & Christina M. Kim,Sun,2006-03-22,15300000.0
+2,17,42,Lockdown,Stephen Williams,Carlton Cuse & Damon Lindelof,Locke,2006-03-29,16210000.0
+2,18,43,Dave,Jack Bender,Edward Kitsis & Adam Horowitz,Hurley,2006-04-05,16379999.999999998
+2,19,44,S.O.S.,Eric Laneuville,Steven Maeda & Leonard Dick,Rose & Bernard,2006-04-12,15680000.0
+2,20,45,Two for the Road,Paul Edwards,Elizabeth Sarnoff & Christina M. Kim,Ana Lucia,2006-05-03,15560000.0
+2,21,46,?,Deran Sarafian,Damon Lindelof & Carlton Cuse,Mr. Eko,2006-05-10,16350000.000000002
+2,22,47,Three Minutes,Stephen Williams,Edward Kitsis & Adam Horowitz,Michael,2006-05-17,14670000.0
+2,23,48,"Live Together, Die Alone",Jack Bender,Carlton Cuse & Damon Lindelof,Desmond,2006-05-24,17840000.0
+2,24,49,"Live Together, Die Alone",Jack Bender,Carlton Cuse & Damon Lindelof,Desmond,2006-05-24,17840000.0
+3,1,50,A Tale of Two Cities,Jack Bender,Story by: Damon LindelofTeleplay by: J. J. Abrams & Damon Lindelof,Jack,2006-10-04,18820000.0
+3,2,51,The Glass Ballerina,Paul Edwards,Jeff Pinkner & Drew Goddard,Sun & Jin,2006-10-11,16890000.0
+3,3,52,Further Instructions,Stephen Williams,Carlton Cuse & Elizabeth Sarnoff,Locke,2006-10-18,16309999.999999998
+3,4,53,Every Man for Himself,Stephen Williams,Edward Kitsis & Adam Horowitz,Sawyer,2006-10-25,17090000.0
+3,5,54,The Cost of Living,Jack Bender,Alison Schapker & Monica Owusu-Breen,Mr. Eko,2006-11-01,16070000.0
+3,6,55,I Do,Tucker Gates,Damon Lindelof & Carlton Cuse,Kate,2006-11-08,17150000.0
+3,7,56,Not in Portland,Stephen Williams,Carlton Cuse & Jeff Pinkner,Juliet,2007-02-07,14490000.0
+3,8,57,Flashes Before Your Eyes,Jack Bender,Damon Lindelof & Drew Goddard,Desmond,2007-02-14,12840000.0
+3,9,58,Stranger in a Strange Land,Paris Barclay,Elizabeth Sarnoff & Christina M. Kim,Jack,2007-02-21,12950000.0
+3,10,59,Tricia Tanaka Is Dead,Eric Laneuville,Edward Kitsis & Adam Horowitz,Hurley,2007-02-28,12780000.0
+3,11,60,Enter 77,Stephen Williams,Carlton Cuse & Damon Lindelof,Sayid,2007-03-07,12450000.0
+3,12,61,Par Avion,Paul Edwards,Christina M. Kim & Jordan Rosenberg,Claire,2007-03-14,12480000.0
+3,13,62,The Man from Tallahassee,Jack Bender,Drew Goddard & Jeff Pinkner,Locke,2007-03-21,12220000.0
+3,14,63,Exposé,Stephen Williams,Edward Kitsis & Adam Horowitz,Nikki & Paulo,2007-03-28,11520000.0
+3,15,64,Left Behind,Karen Gaviola,Damon Lindelof & Elizabeth Sarnoff,Kate,2007-04-04,11660000.0
+3,16,65,One of Us,Jack Bender,Carlton Cuse & Drew Goddard,Juliet,2007-04-11,12090000.0
+3,17,66,Catch-22,Stephen Williams,Jeff Pinkner & Brian K. Vaughan,Desmond,2007-04-18,12080000.0
+3,18,67,D.O.C.,Frederick E.O. Toye,Edward Kitsis & Adam Horowitz,Sun,2007-04-25,11860000.0
+3,19,68,The Brig,Eric Laneuville,Damon Lindelof & Carlton Cuse,Locke,2007-05-02,12330000.0
+3,20,69,The Man Behind the Curtain,Bobby Roth,Elizabeth Sarnoff & Drew Goddard,Ben,2007-05-09,12110000.0
+3,21,70,Greatest Hits,Stephen Williams,Edward Kitsis & Adam Horowitz,Charlie,2007-05-16,12320000.0
+3,22,71,Through the Looking Glass,Jack Bender,Carlton Cuse & Damon Lindelof,Jack,2007-05-23,13860000.0
+3,23,72,Through the Looking Glass,Jack Bender,Carlton Cuse & Damon Lindelof,Jack,2007-05-23,13860000.0
+4,1,73,The Beginning of the End,Jack Bender,Damon Lindelof & Carlton Cuse,Hurley,2008-01-31,16070000.0
+4,2,74,Confirmed Dead,Stephen Williams,Drew Goddard & Brian K. Vaughan,"Faraday, Charlotte,Miles, Frank",2008-02-07,15060000.0
+4,3,75,The Economist,Jack Bender,Edward Kitsis & Adam Horowitz,Sayid,2008-02-14,13620000.0
+4,4,76,Eggtown,Stephen Williams,Elizabeth Sarnoff & Greggory Nations,Kate,2008-02-21,13530000.0
+4,5,77,The Constant,Jack Bender,Carlton Cuse & Damon Lindelof,Desmond,2008-02-28,12850000.0
+4,6,78,The Other Woman,Eric Laneuville,Drew Goddard & Christina M. Kim,Juliet,2008-03-06,12900000.0
+4,7,79,Ji Yeon,Stephen Semel,Edward Kitsis & Adam Horowitz,Sun & Jin,2008-03-13,11870000.0
+4,8,80,Meet Kevin Johnson,Stephen Williams,Elizabeth Sarnoff & Brian K. Vaughan,Michael,2008-03-20,11280000.0
+4,9,81,The Shape of Things to Come,Jack Bender,Brian K. Vaughan & Drew Goddard,Ben,2008-04-24,12330000.0
+4,10,82,Something Nice Back Home,Stephen Williams,Edward Kitsis & Adam Horowitz,Jack,2008-05-01,11140000.0
+4,11,83,Cabin Fever,Paul Edwards,Elizabeth Sarnoff & Kyle Pennington,Locke,2008-05-08,11280000.0
+4,12,84,There's No Place Like Home: Part 1,Stephen Williams,Damon Lindelof & Carlton Cuse,"Jack, Hurley, Sayid,Sun, Kate",2008-05-15,11400000.0
+4,13,85,There's No Place Like Home: Part 2,Jack Bender,Carlton Cuse & Damon Lindelof,"Jack, Hurley, Sayid,Sun, Kate",2008-05-29,12200000.0
+4,14,86,There's No Place Like Home: Part 3,Jack Bender,Carlton Cuse & Damon Lindelof,"Jack, Hurley, Sayid,Sun, Kate",2008-05-29,12200000.0
+5,1,87,Because You Left,Stephen Williams,Damon Lindelof & Carlton Cuse,none,2009-01-21,11660000.0
+5,2,88,The Lie,Jack Bender,Edward Kitsis & Adam Horowitz,Hurley,2009-01-21,11080000.0
+5,3,89,Jughead,Rod Holcomb,Elizabeth Sarnoff & Paul Zbyszewski,Desmond,2009-01-28,11070000.0
+5,4,90,The Little Prince,Stephen Williams,Brian K. Vaughan & Melinda Hsu Taylor,Kate,2009-02-04,10980000.0
+5,5,91,This Place Is Death,Paul Edwards,Edward Kitsis & Adam Horowitz,Sun & Jin,2009-02-11,9770000.0
+5,6[98],92,316,Stephen Williams,Damon Lindelof & Carlton Cuse,Jack,2009-02-18,11270000.0
+5,7[98],93,The Life and Death of Jeremy Bentham,Jack Bender,Carlton Cuse & Damon Lindelof,Locke,2009-02-25,9820000.0
+5,8,94,LaFleur,Mark Goldman,Elizabeth Sarnoff & Kyle Pennington,Sawyer,2009-03-04,10610000.0
+5,9,95,Namaste,Jack Bender,Paul Zbyszewski & Brian K. Vaughan,none,2009-03-18,9080000.0
+5,10,96,He's Our You,Greg Yaitanes,Edward Kitsis & Adam Horowitz,Sayid,2009-03-25,8820000.0
+5,11,97,"Whatever Happened, Happened",Bobby Roth,Carlton Cuse & Damon Lindelof,Kate,2009-04-01,9350000.0
+5,12,98,Dead Is Dead,Stephen Williams,Brian K. Vaughan & Elizabeth Sarnoff,Ben,2009-04-08,8289999.999999999
+5,13,99,Some Like It Hoth,Jack Bender,Melinda Hsu Taylor & Greggory Nations,Miles,2009-04-15,9230000.0
+5,14,100,The Variable,Paul Edwards,Edward Kitsis & Adam Horowitz,Faraday,2009-04-29,9040000.0
+5,15,101,Follow the Leader,Stephen Williams,Paul Zbyszewski & Elizabeth Sarnoff,none,2009-05-06,8700000.0
+5,16,102,The Incident: Part 1,Jack Bender,Damon Lindelof & Carlton Cuse,Jacob,2009-05-13,9430000.0
+5,17,103,The Incident: Part 2,Jack Bender,Damon Lindelof & Carlton Cuse,Jacob,2009-05-13,9430000.0
+6,1,104,LA X - Part 1,Jack Bender,Damon Lindelof & Carlton Cuse,various,2010-02-02,12090000.0
+6,12,105,LA X - Part 2,Jack Bender,Damon Lindelof & Carlton Cuse,various,2010-02-02,12090000.0
+6,3,106,What Kate Does,Paul Edwards,Edward Kitsis & Adam Horowitz,Kate,2010-02-09,11050000.0
+6,4,107,The Substitute,Tucker Gates,Elizabeth Sarnoff & Melinda Hsu Taylor,Locke,2010-02-16,9820000.0
+6,5,108,Lighthouse,Jack Bender,Carlton Cuse & Damon Lindelof,Jack,2010-02-23,9950000.0
+6,6,109,Sundown,Bobby Roth,Paul Zbyszewski & Graham Roland,Sayid,2010-03-02,9290000.0
+6,7,110,Dr. Linus,Mario Van Peebles,Edward Kitsis & Adam Horowitz,Ben,2010-03-09,9490000.0
+6,8,111,Recon,Jack Bender,Elizabeth Sarnoff & Jim Galasso,Sawyer,2010-03-16,8870000.0
+6,9,112,Ab Aeterno,Tucker Gates,Melinda Hsu Taylor & Greggory Nations,Richard,2010-03-23,9310000.0
+6,10,113,The Package,Paul Edwards,Paul Zbyszewski & Graham Roland,Sun & Jin,2010-03-30,10130000.0
+6,11,114,Happily Ever After,Jack Bender,Carlton Cuse & Damon Lindelof,Desmond,2010-04-06,9550000.0
+6,12,115,Everybody Loves Hugo,Daniel Attias,Edward Kitsis & Adam Horowitz,Hurley,2010-04-13,9480000.0
+6,13,116,The Last Recruit,Stephen Semel,Paul Zbyszewski & Graham Roland,various,2010-04-20,9530000.0
+6,14,117,The Candidate,Jack Bender,Elizabeth Sarnoff & Jim Galasso,Jack & Locke,2010-05-04,9590000.0
+6,15,118,Across the Sea,Tucker Gates,Carlton Cuse & Damon Lindelof,Jacob & Man in Black,2010-05-11,10320000.0
+6,16,119,What They Died For,Paul Edwards,Edward Kitsis & Adam Horowitz & Elizabeth Sarnoff,various,2010-05-18,10470000.0
+6,17,120,The End,Jack Bender,Damon Lindelof & Carlton Cuse,various,2010-05-23,13570000.0
+6,18,121,The End Part 2,Jack Bender,Damon Lindelof & Carlton Cuse,various,2010-05-23,13570000.0

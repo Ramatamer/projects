@@ -1,0 +1,25 @@
+1) docker-compose -f DockerCompose.yml up -d
+
+2) docker exec -it kafka /opt/kafka_2.12-2.3.0/bin/kafka-topics.sh --create --bootstrap-server kafka:9092 --replication-factor 1 --partitions 1 --topic ......Topic
+
+3) docker exec -it kafka /opt/kafka_2.12-2.3.0/bin/kafka-topics.sh --list --bootstrap-server kafka:9092
+
+4) docker container run --name ........Db --network=........-net -e MYSQL_ROOT_PASSWORD=12345 -e MYSQL_DATABASE=........Db -d -p 3306:3306 mysql:5.7
+
+5) docker container exec -it ..........Db bash
+mysql -uroot -p12345
+show databases;
+use ...............Db;
+show tables;
+select * from .............;
+
+6) docker image build -t .........image .
+7) docker container run --network ............-net --name ............ -d -p 8080:8080 ........image
+
+8) docker image build -t ........image .
+9) docker container run --network .........-net --name ........... -d -p 8081:8081 ........image
+
+port error: 
+          netstat -ano | findstr :3306
+          taskkill /PID <PID> /F
+
